@@ -6,4 +6,4 @@ if is_magician == is_expert:
 elif is_magician != is_expert:
     print('At Least You\'re Getting There')
 else:
-    print('You Need Magic Powers')
+    print('You Need Magic')
